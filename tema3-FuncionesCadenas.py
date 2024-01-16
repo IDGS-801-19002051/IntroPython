@@ -6,5 +6,6 @@ print(texto.title())
 print(texto.find("de"))
 print(texto.count("e"))
 
+
 textoNuevo=texto.replace("e", "3")
 print(textoNuevo)

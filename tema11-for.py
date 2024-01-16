@@ -5,3 +5,4 @@ nombres = ["Mario","Juan","Pedro","Dario"]
   
 for nom in nombres:
    print(nom)
+   
